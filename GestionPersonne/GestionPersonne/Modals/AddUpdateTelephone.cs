@@ -200,9 +200,9 @@ namespace GestionPersonne.Modals
 
             if (!string.IsNullOrEmpty(selectedCountry))
             {
-                if (africanCountries.TryGetValue(selectedCountry, out string countryCode))
+                if (africanCountries.TryGetValue(selectedCountry, out string comboCountry)
                 {
-                    txtInitial.Text = countryCode;
+                    txtInitial.Text = selectedCountry;
                 }
                 else
                 {

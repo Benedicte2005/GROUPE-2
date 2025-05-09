@@ -177,3 +177,21 @@ C:\Users\james-mat\Documents\Project C#\GestionPersonne\GestionPersonne\obj\Debu
 C:\Users\james-mat\Documents\Project C#\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.Modals.AddUpdateTelephone.resources
 C:\Users\james-mat\Documents\Project C#\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.Modals.AddUpdateAdresse.resources
 C:\Users\james-mat\Documents\Project C#\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.Modals.AddUpdateUtilisateur.resources
+C:\Users\Alpha\Desktop\Josue\GROUPE-2\GestionPersonne\GestionPersonne\bin\Debug\GestionPersonne.exe.config
+C:\Users\Alpha\Desktop\Josue\GROUPE-2\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.exe
+C:\Users\Alpha\Desktop\Josue\GROUPE-2\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.pdb
+C:\Users\Alpha\Desktop\Josue\GROUPE-2\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.csprojResolveAssemblyReference.cache
+C:\Users\Alpha\Desktop\Josue\GROUPE-2\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.Menu.resources
+C:\Users\Alpha\Desktop\Josue\GROUPE-2\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.Modals.AddUpdateAdresse.resources
+C:\Users\Alpha\Desktop\Josue\GROUPE-2\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.Modals.AddUpdatePersonne.resources
+C:\Users\Alpha\Desktop\Josue\GROUPE-2\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.Modals.AddUpdateTelephone.resources
+C:\Users\Alpha\Desktop\Josue\GROUPE-2\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.Modals.AddUpdateUtilisateur.resources
+C:\Users\Alpha\Desktop\Josue\GROUPE-2\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.Modals.Auth.resources
+C:\Users\Alpha\Desktop\Josue\GROUPE-2\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.Modals.PreviewRapport.resources
+C:\Users\Alpha\Desktop\Josue\GROUPE-2\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.Properties.Resources.resources
+C:\Users\Alpha\Desktop\Josue\GROUPE-2\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.ServerConfig.resources
+C:\Users\Alpha\Desktop\Josue\GROUPE-2\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.UserControls.Adresses.resources
+C:\Users\Alpha\Desktop\Josue\GROUPE-2\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.UserControls.Personnes.resources
+C:\Users\Alpha\Desktop\Josue\GROUPE-2\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.UserControls.Telephones.resources
+C:\Users\Alpha\Desktop\Josue\GROUPE-2\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.UserControls.Utilisateurs.resources
+C:\Users\Alpha\Desktop\Josue\GROUPE-2\GestionPersonne\GestionPersonne\obj\Debug\GestionPersonne.csproj.GenerateResource.Cache

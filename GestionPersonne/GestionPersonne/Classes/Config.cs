@@ -34,7 +34,7 @@ namespace GestionPersonne.Classes
                 {
                     ServerType = lines[0].Trim();
                     ServerName = lines[1].Trim();
-                    Username = lines[2].Trim();
+                   Username = lines[2].Trim();
                     Password = cryptage.DecryptData(lines[3].Trim());
                 }
                 else
