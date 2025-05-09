@@ -6,7 +6,7 @@ go
 
 -- procedure for inserting personne
 
-create or alter proc AddPerson @nom varchar(250),@pnom varchar(250),@prnom varchar(250),@sex char(1)
+create or alter proc AddPersons @nom varchar(250),@pnom varchar(250),@prnom varchar(250),@sex char(1)
 as
 begin
 	insert into personne(nom,postnom,prenom,sexe) values(@nom,@pnom,@prnom,@sex)
